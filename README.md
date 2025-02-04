@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=almumu&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark")
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=almumu&theme=radical&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
 ![](https://komarev.com/ghpvc/?username=almumu)
